@@ -1,0 +1,999 @@
+﻿Player Name,Day,Month,Birth Year,Birth Date,Age,Market Value,Code,Team,Position
+Ahmed Safi,14,1,1984,14/01/1984,40,100000,102,Aswan Sc,Right Back
+Amr El Halwani,15,3,1985,15/03/1985,39,150000,104,Aswan Sc,Left Back
+Haytham El Fil,20,12,1984,20/12/1984,39,50000,106,Aswan Sc,Defensive Midfield
+Ahmed Abdelzaher,15,1,1985,15/01/1985,39,100000,108,Aswan Sc,Centre Forward
+Talaat El Gabalawy,13,9,1987,13/09/1987,37,25000,110,Aswan Sc,Goal Keeper
+Sayed Farid,11,5,1987,11/05/1987,37,200000,112,Aswan Sc,Centre Back
+Abdelaziz Mousa,8,7,1989,08/07/1989,35,150000,114,Aswan Sc,Defensive Midfield
+Ahmed Sobhi,4,3,1991,04/03/1991,33,100000,116,Aswan Sc,Right Back
+Emmanuel Karbogi,31,3,1991,31/03/1991,33,200000,118,Aswan Sc,Defensive Midfield
+Mohamed El Ashri,22,6,1991,22/06/1991,33,100000,120,Aswan Sc,Centre Back
+Solomon Mensah,6,5,1992,06/05/1992,32,100000,122,Aswan Sc,Defensive Midfield
+Ahmed Elalfi,1,1,1992,01/01/1992,32,150000,124,Aswan Sc,Left Winger
+Mido,1,1,1994,01/01/1994,30,150000,126,Aswan Sc,Centre Back
+Elhusseini Samir,1,1,1994,01/01/1994,30,50000,128,Aswan Sc,Left Midfield
+Mohamed Gamal Treka,27,10,1993,27/10/1993,30,150000,130,Aswan Sc,Attacking Midfield
+Khaled Walid,9,1,1995,09/01/1995,29,50000,132,Aswan Sc,Goal Keeper
+Mahmoud Shaba,6,4,1995,06/04/1995,29,100000,134,Aswan Sc,Centre Back
+Mahmoud Salah,10,10,1994,10/10/1994,29,150000,136,Aswan Sc,Right Winger
+Ahmed Dahroug,1,1,1996,01/01/1996,28,,138,Aswan Sc,Left Back
+Mohamed Osama,1,7,1995,01/07/1995,29,150000,140,Aswan Sc,Central Midfield
+Mohamed Khalifa,7,7,1995,07/07/1995,29,50000,142,Aswan Sc,Central Midfield
+Omar Radwan,31,7,1997,31/07/1997,27,100000,144,Aswan Sc,Goal Keeper
+Fady Talaat,20,9,1997,20/09/1997,26,25000,146,Aswan Sc,Defensive Midfield
+Ashraf Magdy,26,7,1997,26/07/1997,27,25000,148,Aswan Sc,Left Winger
+Bebo,24,5,1997,24/05/1997,27,100000,150,Aswan Sc,Centre Forward
+Ahmed El-Saghiri,10,6,1998,10/06/1998,26,200000,152,Aswan Sc,Defensive Midfield
+Ahmed Belia,28,3,1999,28/03/1999,25,25000,154,Aswan Sc,Defensive Midfield
+Omar Youssef,3,11,1998,03/11/1998,25,,156,Aswan Sc,Defensive Midfield
+Ahmed Khaled,17,10,1998,17/10/1998,25,25000,158,Aswan Sc,Attacking Midfield
+Amr Reda,18,1,1999,18/01/1999,25,,160,Aswan Sc,Attacking Midfield
+Amr Sser,8,3,1999,08/03/1999,25,100000,162,Aswan Sc,Centre Forward
+Hamza Magdi,1,1,1999,01/01/1999,25,,164,Aswan Sc,Centre Forward
+Said Kanté,22,5,1999,22/05/1999,25,25000,166,Aswan Sc,Defensive Midfield
+Omar Al Dahi,15,12,1999,15/12/1999,24,50000,168,Aswan Sc,Right Midfield
+Ramy Sabry,5,1,1987,05/01/1987,37,200000,170,Enppi Sc,
+Ibrahim Yehia,17,10,1987,17/10/1987,36,200000,172,Enppi Sc,Centre Back
+Ibrahim El Kadi,6,2,1990,06/02/1990,34,150000,174,Enppi Sc,Centre Back
+Mohamed Morsi,1,1,1990,01/01/1990,34,150000,176,Enppi Sc,Attacking Midfield
+Zied Boughattas,5,12,1990,05/12/1990,33,525000,178,Enppi Sc,Centre Back
+Salah Rico,6,2,1991,06/02/1991,33,250000,180,Enppi Sc,Central Midfield
+Amr Hossam,29,8,1991,29/08/1991,33,50000,182,Enppi Sc,Goalkeeper
+Ali Fawzi,17,3,1992,17/03/1992,32,250000,184,Enppi Sc,Right Back
+Abdelrahman Amer,17,11,1991,17/11/1991,32,250000,186,Enppi Sc,Defensive Midfield
+Kareem Tarek,23,1,1992,23/01/1992,32,300000,188,Enppi Sc,Left Winger
+Ahmed El Agouz,4,5,1993,04/05/1993,31,200000,190,Enppi Sc,Defensive Midfield
+Mahmoud Ghaly,22,7,1992,22/07/1992,32,150000,192,Enppi Sc,Central Midfield
+Dinopeter Jude Airaodion,24,11,1992,24/11/1992,31,,194,Enppi Sc,Right Winger
+Ehab Samir,2,7,1993,02/07/1993,31,100000,196,Enppi Sc,Left Back
+Mahmoud Im,9,4,1994,09/04/1994,30,150000,198,Enppi Sc,Right Back
+Ibrahim Galal,14,2,1994,14/02/1994,30,200000,200,Enppi Sc,Centre Forward
+Omar Bassam,17,12,1993,17/12/1993,30,150000,202,Enppi Sc,Centre Forward
+Mostafa Shalaby,1,1,1995,01/01/1995,29,,204,Enppi Sc,Attacking Midfield
+Abdelaziz El Balouti,14,12,1995,14/12/1995,28,150000,206,Enppi Sc,Goalkeeper
+Mahmoud Ali Sedik,1,1,1996,01/01/1996,28,,208,Enppi Sc,Midfield
+Ismaël Sawadogo,28,2,1996,28/02/1996,28,,210,Enppi Sc,Defensive Midfield
+Girgis Magdy,7,1,1996,07/01/1996,28,25000,212,Enppi Sc,Attacking Midfield
+Mohab Yasser,18,3,1997,18/03/1997,27,100000,214,Enppi Sc,Attacking Midfield
+John Ebuka,12,11,1996,12/11/1996,27,100000,216,Enppi Sc,Centre Forward
+Hesham Adel,20,2,1998,20/02/1998,26,50000,218,Enppi Sc,Centre Back
+Abdallah Adel,2,2,1998,02/02/1998,26,25000,220,Enppi Sc,Left Back
+Mahmoud Gad,11,10,1998,11/10/1998,25,250000,222,Enppi Sc,Goalkeeper
+Ahmed Youssef,2,5,1999,02/05/1999,25,200000,224,Enppi Sc,Defensive Midfield
+Mostafa Dowidar,7,2,1999,07/02/1999,25,150000,226,Enppi Sc,Right Midfield
+Abdelrahman Emad,10,4,1999,10/04/1999,25,150000,228,Enppi Sc,Attacking Midfield
+Mohamed Ismail,1,8,1999,01/08/1999,25,200000,230,Enppi Sc,Centre Back
+Karim Fouad,1,10,1999,01/10/1999,24,100000,232,Enppi Sc,Left Back
+Ahmed Kasem,25,2,2000,25/02/2000,24,25000,234,Enppi Sc,Defensive Midfield
+Mostafa Shakshak,6,4,2000,06/04/2000,24,,236,Enppi Sc,Defensive Midfield
+Mohamed Tawakol,1,1,2000,01/01/2000,24,,238,Enppi Sc,Left Winger
+Mohamed Sherif,26,5,1999,26/05/1999,25,,240,Enppi Sc,Right Winger
+Ziad Kamal,1,1,2001,01/01/2001,23,150000,242,Enppi Sc,Defensive Midfield
+Abdelrahman Ashri,20,9,2001,20/09/2001,22,25000,244,Enppi Sc,Defensive Midfield
+Mohamed El Shewy,18,12,1988,18/12/1988,35,2500000,246,El Ahly,Goalkeeper
+Ali Lotfi,14,10,1989,14/10/1989,34,250000,248,El Ahly,Goalkeeper
+Oufa Shobeir,17,3,2000,17/03/2000,24,100000,250,El Ahly,Goalkeeper
+Ayman Ashraf,9,4,1991,09/04/1991,33,1200000,252,El Ahly,Centre Back
+Badr Benoun,30,9,1993,30/09/1993,30,1100000,254,El Ahly,Centre Back
+Rami Rabia,20,5,1993,20/05/1993,31,800000,256,El Ahly,Centre Back
+Yasser Ibrahim,10,2,1993,10/02/1993,31,600000,258,El Ahly,Centre Back
+Mahmoud Metwaly,4,1,1993,04/01/1993,31,500000,260,El Ahly,
+Saad Samir,1,4,1989,01/04/1989,35,500000,262,El Ahly,Centre Back
+Mido,12,1,2000,12/01/2000,24,,264,El Ahly,Centre Back
+Ali Maâloul,1,1,1990,01/01/1990,34,1500000,266,El Ahly,
+Mahmoud Wahid,19,6,1994,19/06/1994,30,400000,268,El Ahly,Left Back
+Mohamed Hany,25,1,1996,25/01/1996,28,1000000,270,El Ahly,Right Back
+Beckham,23,3,1997,23/03/1997,27,400000,272,El Ahly,Right Back
+Aliou Dieng,16,10,1997,16/10/1997,26,1500000,274,El Ahly,Defensive Midfield
+Hamdi Fathi,1,1,1994,01/01/1994,30,800000,276,El Ahly,Defensive Midfield
+Akram Tawfik,8,11,1997,08/11/1997,26,400000,278,El Ahly,Defensive Midfield
+Ahmed Kouka,4,7,2001,04/07/2001,23,25000,280,El Ahly,Defensive Midfield
+Amr El Solia,2,4,1990,02/04/1990,34,1500000,282,El Ahly,Central Midfield
+Mohamed Mahmoud,7,5,1998,07/05/1998,26,300000,284,El Ahly,
+Karim Nedved,8,8,1997,08/08/1997,27,250000,286,El Ahly,Central Midfield
+Afsha Attacking,6,3,1996,06/03/1996,28,1500000,288,El Ahly,Midfield
+Sser Maher,8,2,1997,08/02/1997,27,800000,290,El Ahly,Attacking Midfield
+Walid Soliman,1,12,1984,01/12/1984,39,300000,292,El Ahly,Attacking Midfield
+Junior Ajayi,29,1,1996,29/01/1996,28,1500000,294,El Ahly,
+Kahraba,13,4,1994,13/04/1994,30,1200000,296,El Ahly,Winger Left
+Taher Mohamed,7,3,1997,07/03/1997,27,600000,298,El Ahly,Left Winger
+Hussein El Shahat,21,6,1992,21/06/1992,32,1200000,300,El Ahly,Right Winger
+Marwan Mohsen,26,2,1989,26/02/1989,35,1000000,302,El Ahly,Centre Forward
+Mohamed Sherif,4,2,1996,04/02/1996,28,800000,304,El Ahly,Centre Forward
+Salah Mohsen,1,9,1998,01/09/1998,26,600000,306,El Ahly,Centre Forward
+Walter Bwalya,5,5,1995,05/05/1995,29,400000,308,El Ahly,Centre Forward
+Mohamed Sobhy,30,8,1981,30/08/1981,43,100000,310,Ismaily Sc,
+Der Ramadan,1,12,1990,01/12/1990,33,150000,312,Ismaily Sc,Defensive Midfield
+Hussein El Sayed,18,9,1991,18/09/1991,32,300000,314,Ismaily Sc,Left Back
+Fakhreddine Ben Youssef,23,6,1991,23/06/1991,33,600000,316,Ismaily Sc,Centre Forward
+Redouane Cherifi,22,2,1993,22/02/1993,31,400000,318,Ismaily Sc,Left Back
+Abdallah Gomaa Awad,26,2,1993,26/02/1993,31,150000,320,Ismaily Sc,Right Back
+Emad Hamdi,14,1,1993,14/01/1993,31,350000,322,Ismaily Sc,Defensive Midfield
+Mahmoud Dunga,2,12,1992,02/12/1992,31,250000,324,Ismaily Sc,Defensive Midfield
+Benson Shilongo,18,5,1992,18/05/1992,32,250000,326,Ismaily Sc,Centre Forward
+Mohamed Fawzi,10,7,1993,10/07/1993,31,150000,328,Ismaily Sc,Goalkeeper
+Mohamed Hassan,3,10,1993,03/10/1993,30,250000,330,Ismaily Sc,Defensive Midfield
+Ary Papel,3,3,1994,03/03/1994,30,400000,332,Ismaily Sc,Left Winger
+Shokry Guib,1,5,1994,01/05/1994,30,200000,334,Ismaily Sc,Centre Forward
+Mohamed Magdy,1,1,1995,01/01/1995,29,200000,336,Ismaily Sc,Goalkeeper
+Omar El Wahsh,3,4,1995,03/04/1995,29,250000,338,Ismaily Sc,Central Midfield
+Ahmed Madbouli,20,11,1994,20/11/1994,29,350000,340,Ismaily Sc,Left Winger
+Marouane Sahraoui,9,1,1996,09/01/1996,28,450000,342,Ismaily Sc,Centre Back
+Mohamed Hashem,29,10,1995,29/10/1995,28,300000,344,Ismaily Sc,Centre Back
+Mohamed Adel,29,9,1995,29/09/1995,28,250000,346,Ismaily Sc,Central Midfield
+Mohamed El Shami,1,1,1996,01/01/1996,28,300000,348,Ismaily Sc,Centre Forward
+Baher El Mohamady,1,11,1996,01/11/1996,27,400000,350,Ismaily Sc,Centre Back
+Medhat Faosaa,21,3,1997,21/03/1997,27,100000,352,Ismaily Sc,Attacking Midfield
+Ahmed El Aash,1,1,1998,01/01/1998,26,50000,354,Ismaily Sc,Centre Back
+Ahmed Ayman,1,9,1997,01/09/1997,27,200000,356,Ismaily Sc,Right Back
+Mohamed Sadek,6,7,1997,06/07/1997,27,250000,358,Ismaily Sc,Attacking Midfield
+Mostafa Fares,24,9,1997,24/09/1997,26,50000,360,Ismaily Sc,Attacking Midfield
+Ahmed Mostafa,21,10,1997,21/10/1997,26,150000,362,Ismaily Sc,Left Winger
+Abdelrahman Magdi,12,9,1997,12/09/1997,27,600000,364,Ismaily Sc,Right Winger
+Mostafa El Zery,9,4,1999,09/04/1999,25,150000,366,Ismaily Sc,Centre Back
+Ahmed Castelo,1,1,1999,01/01/1999,25,,368,Ismaily Sc,Centre Back
+Mahmoud El Badry,24,3,1999,24/03/1999,25,250000,370,Ismaily Sc,Left Back
+Mohamed Ser,6,3,1999,06/03/1999,25,25000,372,Ismaily Sc,Right Back
+Kamal El Sayed,10,10,1999,10/10/1999,24,25000,374,Ismaily Sc,Goalkeeper
+Mohamed Ammar,1,9,1999,01/09/1999,25,150000,376,Ismaily Sc,Centre Back
+Mohamed Bayoumi,7,4,2000,07/04/2000,24,200000,378,Ismaily Sc,Right Back
+Mohamed Eldarf,2,7,1999,02/07/1999,25,100000,380,Ismaily Sc,Defensive Midfield
+Zeyad Tarek,1,1,2000,01/01/2000,24,,382,Ismaily Sc,Attacking Midfield
+Emad El-Sayed,6,4,1986,06/04/1986,38,200000,384,Ittihad Alexandria,Goalkeeper
+Hossam Ashour,9,3,1986,09/03/1986,38,250000,386,Ittihad Alexandria,Defensive Midfield
+Mohamed Anwar,1,2,1988,01/02/1988,36,100000,388,Ittihad Alexandria,Centre Back
+Elsayed Salem,10,7,1987,10/07/1987,37,200000,390,Ittihad Alexandria,Left Back
+Sabri Rahil,2,10,1987,02/10/1987,36,150000,392,Ittihad Alexandria,Left Back
+Khaled Kamar,2,2,1988,02/02/1988,36,250000,394,Ittihad Alexandria,
+Mahmoud Rizk,1,1,1990,01/01/1990,34,200000,396,Ittihad Alexandria,Centre Back
+Mohamed Atwa,15,7,1990,15/07/1990,34,150000,398,Ittihad Alexandria,Centre Back
+Ahmed Manga,3,10,1991,03/10/1991,32,250000,400,Ittihad Alexandria,Defensive Midfield
+Khaled El Ghandour,15,5,1991,15/05/1991,33,200000,402,Ittihad Alexandria,Attacking Midfield
+Amr Khalil,1,1,1993,01/01/1993,31,100000,404,Ittihad Alexandria,Goalkeeper
+Damion Lowe,5,5,1993,05/05/1993,31,325000,406,Ittihad Alexandria,Centre Back
+Emmanuel Okwi,25,12,1992,25/12/1992,31,250000,408,Ittihad Alexandria,Left Winger
+Karim Mamdouh,11,3,1993,11/03/1993,31,150000,410,Ittihad Alexandria,Right Winger
+Omar Al Midani,26,1,1994,26/01/1994,30,200000,412,Ittihad Alexandria,Centre Back
+Mahmoud Shaaban,1,1,1995,01/01/1995,29,200000,414,Ittihad Alexandria,Right Back
+Karim El Deeb,25,2,1995,25/02/1995,29,200000,416,Ittihad Alexandria,Central Midfield
+Mohamed El Sabahi,14,6,1994,14/06/1994,30,200000,418,Ittihad Alexandria,Left Winger
+Romario Williams,15,8,1994,15/08/1994,30,350000,420,Ittihad Alexandria,Centre Forward
+Ahmed Rashed,26,7,1994,26/07/1994,30,200000,422,Ittihad Alexandria,Centre Forward
+Sobhi Soliman,1,1,1997,01/01/1997,27,,424,Ittihad Alexandria,Goalkeeper
+Marwan El Gar,23,2,1997,23/02/1997,27,100000,426,Ittihad Alexandria,Centre Back
+Ahmed Heggy,26,4,1997,26/04/1997,27,150000,428,Ittihad Alexandria,Right Winger
+Hesham Salah,10,6,1997,10/06/1997,27,25000,430,Ittihad Alexandria,Right Back
+Karim Yehia,21,5,1998,21/05/1998,26,150000,432,Ittihad Alexandria,Centre Back
+Ragab El Safi,20,4,1999,20/04/1999,25,50000,434,Ittihad Alexandria,Centre Back
+Marwan Ateya,1,8,1998,01/08/1998,26,200000,436,Ittihad Alexandria,Defensive Midfield
+Youssef Hassan,8,9,1998,08/09/1998,26,50000,438,Ittihad Alexandria,Central Midfield
+Mohamed Kamel,1,1,1999,01/01/1999,25,25000,440,Ittihad Alexandria,Attack
+Razack Cissé,30,12,1998,30/12/1998,25,500000,442,Ittihad Alexandria,Left Winger
+Fawzi El Hewy,29,9,1998,29/09/1998,25,150000,444,Ittihad Alexandria,Left Winger
+Semo,1,12,1998,01/12/1998,25,,446,Ittihad Alexandria,Winger Left
+Mohamed Sobhi,15,7,1999,15/07/1999,25,150000,448,Ittihad Alexandria,Goalkeeper
+Mostafa Ibrahim,20,4,2000,20/04/2000,24,,450,Ittihad Alexandria,Centre Back
+Amar Hamdi,26,11,1999,26/11/1999,24,250000,452,Ittihad Alexandria,Attacking Midfield
+Ahmed Hamdin,1,1,2001,01/01/2001,23,,454,Ittihad Alexandria,Centre Forward
+Abdelghani Mohamed,2,2,2002,02/02/2002,22,100000,456,Ittihad Alexandria,Attacking Midfield
+Ibrahim Abdel-Khalik,20,4,1986,20/04/1986,38,150000,458,Entag El Harby,Defensive Midfield
+Ahmed Busca,20,9,1986,20/09/1986,37,100000,460,Entag El Harby,Goalkeeper
+Ahmed Yehia,16,6,1988,16/06/1988,36,100000,462,Entag El Harby,Goalkeeper
+Ahmed Ali,8,8,1988,08/08/1988,36,100000,464,Entag El Harby,Right Back
+Mohamed Sosta,13,9,1988,13/09/1988,36,100000,466,Entag El Harby,Central Midfield
+Moaz El Hewy,29,1,1990,29/01/1990,34,200000,468,Entag El Harby,Centre Back
+Mohamed Tarek,5,5,1990,05/05/1990,34,150000,470,Entag El Harby,Left Back
+Mohamed Talaat,14,5,1989,14/05/1989,35,200000,472,Entag El Harby,
+Mohamed Ahmed El,9,1,1991,09/01/1991,33,25000,474,Entag El Harby,Goalkeeper
+Taha,17,4,1991,17/04/1991,33,150000,476,Entag El Harby,Centre Back
+Mohamed Ramadan,20,11,1990,20/11/1990,33,150000,478,Entag El Harby,Attacking Midfield
+Ali Fathi,2,1,1992,02/01/1992,32,100000,480,Entag El Harby,Left Back
+Mohamed Shawky Gharib,25,9,1991,25/09/1991,32,100000,482,Entag El Harby,
+Mohamed El Shebini,1,1,1993,01/01/1993,31,100000,484,Entag El Harby,Centre Back
+Sayed Shabrawy,1,4,1993,01/04/1993,31,150000,486,Entag El Harby,Right Back
+Ahmed Hassan,12,4,1993,12/04/1993,31,,488,Entag El Harby,Midfield
+Himid Mao Mkami,5,11,1992,05/11/1992,31,200000,490,Entag El Harby,Defensive Midfield
+Mohamed Bazoka,1,9,1993,01/09/1993,31,300000,492,Entag El Harby,Centre Back
+Ahmed Saber,21,5,1993,21/05/1993,31,100000,494,Entag El Harby,Centre Back
+Mahmoud Adel,5,6,1993,05/06/1993,31,200000,496,Entag El Harby,Defensive Midfield
+Alaa Salama,2,7,1993,02/07/1993,31,200000,498,Entag El Harby,Attacking Midfield
+Ahmed Afifi,24,5,1993,24/05/1993,31,200000,500,Entag El Harby,Left Winger
+Mohamed Sanogo Vieira,31,7,1993,31/07/1993,31,200000,502,Entag El Harby,Right Winger
+Mohamed Abdelmaguid,30,12,1993,30/12/1993,30,100000,504,Entag El Harby,Centre Forward
+Mamadou Ndioko Niass,4,6,1994,04/06/1994,30,200000,506,Entag El Harby,Right Winger
+Rafik Kamergi,16,1,1995,16/01/1995,29,250000,508,Entag El Harby,Centre Forward
+Islam Gaber,8,8,1995,08/08/1995,29,25000,510,Entag El Harby,Centre Back
+Mahmoud Abdelbi,5,12,1995,05/12/1995,28,25000,512,Entag El Harby,Defensive Midfield
+Hassan Yassin,1,1,1996,01/01/1996,28,,514,Entag El Harby,Attacking Midfield
+Gham Mohamed,12,3,1997,12/03/1997,27,250000,516,Entag El Harby,Central Midfield
+Mostafa El Gamal,31,3,1997,31/03/1997,27,150000,518,Entag El Harby,Central Midfield
+Mohamed El Ghandour,1,8,1997,01/08/1997,27,50000,520,Entag El Harby,Goalkeeper
+Mostafa El Badry,2,7,1997,02/07/1997,27,100000,522,Entag El Harby,Left Winger
+Wagih Abdelhakim,1,3,1998,01/03/1998,26,200000,524,Entag El Harby,Right Winger
+El Limby,1,1,1999,01/01/1999,25,25000,526,Entag El Harby,Defensive Midfield
+Abdelrahman Shika,1,1,1999,01/01/1999,25,150000,528,Entag El Harby,Right Winger
+Mahmoud Ragab,1,1,1999,01/01/1999,25,50000,530,Entag El Harby,Right Winger
+Khaled Ramadan,1,1,1999,01/01/1999,25,25000,532,Entag El Harby,Right Winger
+Fadel Sherif,1,1,2001,01/01/2001,23,50000,534,Entag El Harby,Right Winger
+Mostafa Abdelrahim,,NA,,#VALUE!,#VALUE!,,536,Entag El Harby,Midfield
+Mohamed Koffi,30,12,1986,30/12/1986,37,200000,538,Bank El Ahly,Centre Back
+Ahmed Ali,21,5,1986,21/05/1986,38,300000,540,Bank El Ahly,Centre Forward
+Mahmoud Sayed,1,1,1988,01/01/1988,36,200000,542,Bank El Ahly,Central Midfield
+Bahaa Magdy,14,2,1989,14/02/1989,35,200000,544,Bank El Ahly,Left Back
+Mahmoud Kaoud,27,8,1988,27/08/1988,36,200000,546,Bank El Ahly,Right Winger
+Asem Salah,27,3,1990,27/03/1990,34,200000,548,Bank El Ahly,Left Back
+Mohamed Bassiouny,8,8,1989,08/08/1989,35,200000,550,Bank El Ahly,Left Winger
+Ahmed Sherwyda,21,10,1990,21/10/1990,33,150000,552,Bank El Ahly,Centre Forward
+Ahmed El Saadani,24,2,1992,24/02/1992,32,150000,554,Bank El Ahly,Goalkeeper
+Mahmoud El Zanfaly,28,4,1992,28/04/1992,32,150000,556,Bank El Ahly,Goalkeeper
+Mohamed Dabash,26,4,1992,26/04/1992,32,200000,558,Bank El Ahly,Centre Back
+Mohamed Methni,3,3,1992,03/03/1992,32,475000,560,Bank El Ahly,Defensive Midfield
+Ahmed Yasser,27,11,1991,27/11/1991,32,200000,562,Bank El Ahly,Right Winger
+Osama Ibrahim,1,4,1993,01/04/1993,31,250000,564,Bank El Ahly,Right Back
+Maarouf Yussuf,20,12,1992,20/12/1992,31,300000,566,Bank El Ahly,Central Midfield
+Mohamed Magdy,7,7,1993,07/07/1993,31,200000,568,Bank El Ahly,Centre Back
+Bousha,10,9,1993,10/09/1993,31,100000,570,Bank El Ahly,Right Back
+Mohamed Fathi,2,2,1994,02/02/1994,30,400000,572,Bank El Ahly,Defensive Midfield
+Hossam El Saa,1,1,1994,01/01/1994,30,,574,Bank El Ahly,Central Midfield
+Mido Mostafa,30,11,1993,30/11/1993,30,25000,576,Bank El Ahly,Attacking Midfield
+Karim Bambo,13,5,1993,13/05/1993,31,300000,578,Bank El Ahly,Left Winger
+Mohamed Essam,1,1,1994,01/01/1994,30,250000,580,Bank El Ahly,Left Winger
+Moussa Diawara,15,10,1994,15/10/1994,29,200000,582,Bank El Ahly,Left Winger
+Estrela Defensive,22,9,1995,22/09/1995,28,350000,584,Bank El Ahly,Midfield
+Ahmed Yassin,7,8,1997,07/08/1997,27,100000,586,Bank El Ahly,Centre Back
+Fady Farid,12,8,1997,12/08/1997,27,250000,588,Bank El Ahly,Centre Forward
+Mohamed Fakhri,4,3,1999,04/03/1999,25,50000,590,Bank El Ahly,Attacking Midfield
+Ismail El Leithy,3,4,2000,03/04/2000,24,,592,Bank El Ahly,Central Midfield
+Shady Radwan,1,9,2001,01/09/2001,23,,594,Bank El Ahly,Right Winger
+Ahmed Sobhi,,NA,,#VALUE!,#VALUE!,,596,Bank El Ahly,Goalkeeper
+Amir Medhat,,NA,,#VALUE!,#VALUE!,,598,Bank El Ahly,Centre Back
+Mohamed Laaba,,NA,,#VALUE!,#VALUE!,25000,600,Bank El Ahly,Central Midfield
+Mohamed Hamed,,NA,,#VALUE!,#VALUE!,,602,Bank El Ahly,Attacking Midfield
+Ali Saber,,NA,,#VALUE!,#VALUE!,25000,604,Bank El Ahly,Centre Forward
+Mohamed Guib,31,1,1983,31/01/1983,41,100000,606,El Gou Fc,Centre Back
+Nour El Sayed,9,1,1984,09/01/1984,40,100000,608,El Gou Fc,
+Ahmed Adel,10,4,1987,10/04/1987,37,200000,610,El Gou Fc,Goalkeeper
+Mahmoud El Gharabawy,15,10,1987,15/10/1987,36,150000,612,El Gou Fc,Goalkeeper
+Islam Tarek,2,12,1988,02/12/1988,35,150000,614,El Gou Fc,Goalkeeper
+Islam Roshdi,26,7,1989,26/07/1989,35,150000,616,El Gou Fc,Left Winger
+Omar El Said,23,6,1990,23/06/1990,34,300000,618,El Gou Fc,Centre Forward
+Mohamed Ragab,19,6,1990,19/06/1990,34,200000,620,El Gou Fc,Centre Forward
+Joseph Ngwem,20,7,1991,20/07/1991,33,200000,622,El Gou Fc,Left Back
+Amr Barakat,1,10,1991,01/10/1991,32,200000,624,El Gou Fc,Central Midfield
+Louay Wael,1,6,1992,01/06/1992,32,200000,626,El Gou Fc,Centre Back
+Islam Abdelim,8,9,1992,08/09/1992,32,200000,628,El Gou Fc,Attacking Midfield
+Mohamed Abdelgawad,5,10,1992,05/10/1992,31,50000,630,El Gou Fc,Right Winger
+Mohamed Lahbib Yeken,9,3,1994,09/03/1994,30,500000,632,El Gou Fc,Right Back
+Ahmed Amer,7,11,1993,07/11/1993,30,150000,634,El Gou Fc,Defensive Midfield
+Serge Arud Aka,16,11,1994,16/11/1994,29,250000,636,El Gou Fc,Defensive Midfield
+Mahmoud Shabrawy,15,12,1994,15/12/1994,29,100000,638,El Gou Fc,Left Winger
+Allan Kyambadde,15,1,1996,15/01/1996,28,200000,640,El Gou Fc,Right Back
+Ser Ser,1,1,1996,01/01/1996,28,50000,642,El Gou Fc,Right Winger
+Amr El Saadawy,12,2,1997,12/02/1997,27,150000,644,El Gou Fc,Left Back
+Amoory,8,11,1996,08/11/1996,27,200000,646,El Gou Fc,Winger Left
+Idris Mbombo,1,6,1996,01/06/1996,28,150000,648,El Gou Fc,Centre Forward
+Mahmoud El Gazzar,20,2,1998,20/02/1998,26,150000,650,El Gou Fc,Centre Back
+Karim El Tayeb,13,1,1999,13/01/1999,25,150000,652,El Gou Fc,Centre Forward
+Abdo Samy,1,1,2001,01/01/2001,23,25000,654,El Gou Fc,Midfield
+Arabi Badr,1,1,2001,01/01/2001,23,150000,656,El Gou Fc,Defensive Midfield
+Zeyad El Geushy,9,12,2001,09/12/2001,22,25000,658,El Gou Fc,Centre Back
+Mostafa El Safty,,NA,,#VALUE!,#VALUE!,,660,El Gou Fc,Safty Centre Back
+Mohamed Abdelshafi,1,7,1985,01/07/1985,39,250000,662,Zamalek Sc,Left Back
+Ayman Hefny,31,12,1985,31/12/1985,38,200000,664,Zamalek Sc,Attacking Midfield
+Shikabala,5,3,1986,05/03/1986,38,200000,666,Zamalek Sc,
+Mahmoud Genesh,25,5,1987,25/05/1987,37,300000,668,Zamalek Sc,Goalkeeper
+Gabaski,28,2,1989,28/02/1989,35,800000,670,Zamalek Sc,Goalkeeper
+Hazem Emam,9,7,1988,09/07/1988,36,300000,672,Zamalek Sc,Right Back
+Tarek Hamed,24,10,1988,24/10/1988,35,1200000,674,Zamalek Sc,Defensive Midfield
+Mahmoud Alaa,28,1,1991,28/01/1991,33,1500000,676,Zamalek Sc,Centre Back
+Mahmoud Abdelaziz,27,6,1990,27/06/1990,34,300000,678,Zamalek Sc,Defensive Midfield
+Ferjani Sassi,18,3,1992,18/03/1992,32,2500000,680,Zamalek Sc,Central Midfield
+Mohamed Awad,6,7,1992,06/07/1992,32,600000,682,Zamalek Sc,
+Hamza Mathlouthi,25,7,1992,25/07/1992,32,800000,684,Zamalek Sc,Right Back
+Seifeddine Jaziri,12,2,1993,12/02/1993,31,600000,686,Zamalek Sc,Centre Forward
+Mohamed Abdelghani,16,7,1993,16/07/1993,31,400000,688,Zamalek Sc,Centre Back
+Achraf Bencharki,24,9,1994,24/09/1994,29,2000000,690,Zamalek Sc,Left Winger
+Hamid Ahadad Second,30,11,1994,30/11/1994,29,800000,692,Zamalek Sc,Second Striker
+Mahmoud El Wensh,1,6,1995,01/06/1995,29,800000,694,Zamalek Sc,Centre Back
+Abdallah Gomaa,10,1,1996,10/01/1996,28,600000,696,Zamalek Sc,Left Back
+Islam Gaber,1,5,1996,01/05/1996,28,250000,698,Zamalek Sc,Central Midfield
+Mohamed Ashraf Roqa,10,7,1995,10/07/1995,29,200000,700,Zamalek Sc,Central Midfield
+Youssef Obama,26,5,1995,26/05/1995,29,1000000,702,Zamalek Sc,Attacking Midfield
+Zizo,10,1,1996,10/01/1996,28,1200000,704,Zamalek Sc,Winger Right
+Marwan Hamdi,15,11,1996,15/11/1996,27,300000,706,Zamalek Sc,Centre Forward
+Mohamed Abdelsalam,1,10,1997,01/10/1997,26,250000,708,Zamalek Sc,Centre Back
+Ahmed Fatouh,22,3,1998,22/03/1998,26,800000,710,Zamalek Sc,Left Back
+Emam Ashour,20,2,1998,20/02/1998,26,300000,712,Zamalek Sc,Central Midfield
+Hussein Faisal,4,3,1999,04/03/1999,25,100000,714,Zamalek Sc,Left Winger
+Hossam Abdelmaguid,30,4,2001,30/04/2001,23,100000,716,Zamalek Sc,Centre Back
+Ahmed Eid,1,1,2001,01/01/2001,23,300000,718,Zamalek Sc,Right Back
+Mohamed Hossam,1,1,2001,01/01/2001,23,50000,720,Zamalek Sc,Defensive Midfield
+Osama Faisal,1,1,2001,01/01/2001,23,150000,722,Zamalek Sc,Centre Forward
+Yassin Marei,7,11,2001,07/11/2001,22,100000,724,Zamalek Sc,Centre Back
+Hatem Mohamed,26,10,2001,26/10/2001,22,50000,726,Zamalek Sc,Left Back
+Hossam Ashraf,20,6,2001,20/06/2001,23,150000,728,Zamalek Sc,Left Winger
+Ahmed Masoud,15,12,1991,15/12/1991,32,300000,730,El Masry Sc,Goalkeeper
+Ahmed Daador,10,4,1995,10/04/1995,29,150000,732,El Masry Sc,Goalkeeper
+Essam Tharwat,6,8,1986,06/08/1986,38,100000,734,El Masry Sc,Goalkeeper
+Mohamed Shehata,1,10,1999,01/10/1999,24,25000,736,El Masry Sc,Goalkeeper
+Ahmed Hamed Shousha,1,10,1993,01/10/1993,30,300000,738,El Masry Sc,Centre Back
+Saïdou Simporé,31,8,1992,31/08/1992,32,300000,740,El Masry Sc,Centre Back
+Islam Abou-Salima,25,6,1993,25/06/1993,31,250000,742,El Masry Sc,
+Islam Salah,1,7,1991,01/07/1991,33,200000,744,El Masry Sc,
+Mohammed Saleh,18,7,1993,18/07/1993,31,100000,746,El Masry Sc,Centre Back
+Ahmed Shedid Kewi,1,1,1986,01/01/1986,38,250000,748,El Masry Sc,Left Back
+Karim El Eraki,29,11,1997,29/11/1997,26,300000,750,El Masry Sc,Right Back
+Alaa Atta,1,1,1996,01/01/1996,28,150000,752,El Masry Sc,Right Back
+Mahmoud Hamad,10,11,1993,10/11/1993,30,150000,754,El Masry Sc,Right Back
+Moaz Anwar,,- (-),,#VALUE!,#VALUE!,,756,El Masry Sc,Midfield
+Farid Shawky,19,12,1989,19/12/1989,34,300000,758,El Masry Sc,Defensive Midfield
+Amr Moussa,17,11,1988,17/11/1988,35,300000,760,El Masry Sc,Defensive Midfield
+Emeka Christian Eze,22,12,1992,22/12/1992,31,250000,762,El Masry Sc,Defensive Midfield
+Haggag Oweis,5,9,1995,05/09/1995,29,200000,764,El Masry Sc,Defensive Midfield
+Islam Ateya,3,12,1998,03/12/1998,25,200000,766,El Masry Sc,Attacking Midfield
+Mostafa Soltan,2,2,1992,02/02/1992,32,150000,768,El Masry Sc,Attacking Midfield
+Ziad Farag,8,2,2002,08/02/2002,22,150000,770,El Masry Sc,Attacking Midfield
+Ahmed Refaat,22,6,1993,22/06/1993,31,400000,772,El Masry Sc,Left Winger
+Omar Kamal,29,9,1993,29/09/1993,30,300000,774,El Masry Sc,Right Winger
+Hassan Ali,15,5,1998,15/05/1998,26,300000,776,El Masry Sc,Right Winger
+Mohamed Antar,7,2,1993,07/02/1993,31,200000,778,El Masry Sc,Right Winger
+Mohamed Gaber,22,2,1991,22/02/1991,33,150000,780,El Masry Sc,Right Winger
+Ayman Da,10,4,1997,10/04/1997,27,50000,782,El Masry Sc,Right Winger
+Hussein Ragab,12,1,1994,12/01/1994,30,150000,784,El Masry Sc,
+Kazadi Kasengu,20,7,1992,20/07/1992,32,300000,786,El Masry Sc,Centre Forward
+Ahmed Gomaa,19,5,1988,19/05/1988,36,300000,788,El Masry Sc,Centre Forward
+Austin Amutu,20,2,1993,20/02/1993,31,300000,790,El Masry Sc,Centre Forward
+Mohamed Grendo,7,8,1991,07/08/1991,33,200000,792,El Masry Sc,Centre Forward
+Mahmoud Aboul-Saoud,30,11,1987,30/11/1987,36,300000,794,El Mokawloon,Goalkeeper
+Hassan Mahmoud Shahin,10,3,1993,10/03/1993,31,150000,796,El Mokawloon,Goalkeeper
+Ahmed El Arabi,25,8,1992,25/08/1992,32,50000,798,El Mokawloon,Goalkeeper
+Mohamed Samir,5,11,1987,05/11/1987,36,250000,800,El Mokawloon,Centre Back
+Farouck Kabore,23,11,1993,23/11/1993,30,250000,802,El Mokawloon,Centre Back
+Fady Gah,19,5,1990,19/05/1990,34,150000,804,El Mokawloon,Centre Back
+Ibrahim Adel,1,4,1989,01/04/1989,35,100000,806,El Mokawloon,Centre Back
+Khaled El Husseini,5,5,1992,05/05/1992,32,25000,808,El Mokawloon,Centre Back
+Abdelwahab Ismail,14,5,1997,14/05/1997,27,150000,810,El Mokawloon,Left Back
+Ahmed Abdelaziz,26,8,1993,26/08/1993,31,150000,812,El Mokawloon,Left Back
+Hassan El Shami,1,11,1983,01/11/1983,40,100000,814,El Mokawloon,Left Back
+Amir Abed,12,7,1989,12/07/1989,35,200000,816,El Mokawloon,Right Back
+Basem Ali,27,10,1988,27/10/1988,35,200000,818,El Mokawloon,
+Abdelrahman Farouk,9,6,1984,09/06/1984,40,100000,820,El Mokawloon,Right Back
+Ibrahim Salah,1,4,1987,01/04/1987,37,200000,822,El Mokawloon,Defensive Midfield
+Mohamed Rizk,1,6,1993,01/06/1993,31,200000,824,El Mokawloon,Defensive Midfield
+Wassim Ghmouchi,17,4,1996,17/04/1996,28,350000,826,El Mokawloon,Central Midfield
+Mohamed Magli,5,1,1996,05/01/1996,28,250000,828,El Mokawloon,Central Midfield
+Ahmed Kaboria,17,1,1988,17/01/1988,36,200000,830,El Mokawloon,Central Midfield
+Ahmed El Shimi,23,6,1995,23/06/1995,29,200000,832,El Mokawloon,Central Midfield
+Youssef El Gohary,13,11,1997,13/11/1997,26,150000,834,El Mokawloon,Central Midfield
+Karim Mostafa,10,6,1990,10/06/1990,34,200000,836,El Mokawloon,Attacking Midfield
+Abdallah Yaisien,23,5,1994,23/05/1994,30,200000,838,El Mokawloon,Attacking Midfield
+Ahmed Shokry,21,7,1989,21/07/1989,35,200000,840,El Mokawloon,Attacking Midfield
+Omar Saviola,17,3,1994,17/03/1994,30,200000,842,El Mokawloon,Attacking Midfield
+Ahmed Magdy,9,12,1989,09/12/1989,34,150000,844,El Mokawloon,Attacking Midfield
+Geb,22,10,1995,22/10/1995,28,150000,846,El Mokawloon,Left Winger
+Youssef Hassan,20,6,2003,20/06/2003,21,,848,El Mokawloon,Left Winger
+Luis Hinestroza,16,8,1992,16/08/1992,32,300000,850,El Mokawloon,Right Winger
+Ahmed Daouda,25,6,1989,25/06/1989,35,200000,852,El Mokawloon,Right Winger
+Mohamed Salem,1,1,1994,01/01/1994,30,400000,854,El Mokawloon,Centre Forward
+Haythem Jouini,7,5,1993,07/05/1993,31,300000,856,El Mokawloon,Centre Forward
+Moses Odo,11,12,1993,11/12/1993,30,250000,858,El Mokawloon,Centre Forward
+Mohamed Hamdi,13,12,1991,13/12/1991,32,200000,860,El Mokawloon,Centre Forward
+Ahmed Hassan Mekky,20,4,1987,20/04/1987,37,150000,862,El Mokawloon,Centre Forward
+Sherif Ekramy,10,7,1983,10/07/1983,41,250000,864,Pyramids Fc,Goalkeeper
+Ahmed Fathi,10,11,1984,10/11/1984,39,300000,866,Pyramids Fc,Right Back
+Abdallah Said,13,7,1985,13/07/1985,39,1600000,868,Pyramids Fc,
+El Mahdi Soliman,8,6,1987,08/06/1987,37,250000,870,Pyramids Fc,Goalkeeper
+Tarek Taha,4,4,1988,04/04/1988,36,200000,872,Pyramids Fc,Left Back
+Dodo Elgabas,1,1,1988,01/01/1988,36,250000,874,Pyramids Fc,Centre Forward
+Ali Gabr,10,1,1989,10/01/1989,35,800000,876,Pyramids Fc,Centre Back
+Mohamed Farouk,14,9,1989,14/09/1989,35,500000,878,Pyramids Fc,Right Winger
+Ibrahim Hassan,25,7,1990,25/07/1990,34,1000000,880,Pyramids Fc,Right Winger
+Ahmed Hamoudi,30,7,1990,30/07/1990,34,200000,882,Pyramids Fc,Right Winger
+Ahmed El Shewy,14,5,1991,14/05/1991,33,1000000,884,Pyramids Fc,Goalkeeper
+Ahmed Samy,31,3,1992,31/03/1992,32,200000,886,Pyramids Fc,Centre Back
+Ahmed Tawfik,1,10,1991,01/10/1991,32,400000,888,Pyramids Fc,Right Back
+Omar Gaber,30,1,1992,30/01/1992,32,500000,890,Pyramids Fc,Defensive Midfield
+Ahmed El Sheikh,11,9,1992,11/09/1992,32,800000,892,Pyramids Fc,Right Winger
+Diego Rol?N,24,3,1993,24/03/1993,31,2000000,894,Pyramids Fc,Centre Forward
+John Antwi,6,8,1992,06/08/1992,32,1200000,896,Pyramids Fc,Centre Forward
+Ahmed Ayman Mansour,13,4,1994,13/04/1994,30,500000,898,Pyramids Fc,Centre Back
+Mahmoud Hamada,1,11,1993,01/11/1993,30,300000,900,Pyramids Fc,Defensive Midfield
+Abdallah Bakri,1,7,1994,01/07/1994,30,400000,902,Pyramids Fc,Centre Back
+Mohamed Hamdi,15,3,1995,15/03/1995,29,500000,904,Pyramids Fc,Left Back
+Mahmoud Wadi,19,12,1994,19/12/1994,29,400000,906,Pyramids Fc,Centre Forward
+Bil Dounga,6,4,1996,06/04/1996,28,1000000,908,Pyramids Fc,Defensive Midfield
+Islam Issa,1,2,1996,01/02/1996,28,500000,910,Pyramids Fc,Left Winger
+Eric Traoré,21,5,1996,21/05/1996,28,1500000,912,Pyramids Fc,Attacking Midfield
+Ramadan Sobhi,23,1,1997,23/01/1997,27,3000000,914,Pyramids Fc,Left Winger
+Osama Galal,17,9,1997,17/09/1997,26,300000,916,Pyramids Fc,Centre Back
+Lumala Abdu,21,7,1997,21/07/1997,27,100000,918,Pyramids Fc,Centre Forward
+Mahmoud Abdelkader,9,3,1999,09/03/1999,25,25000,920,Pyramids Fc,Left Back
+Abdelrahman Ayman,1,1,2001,01/01/2001,23,25000,922,Pyramids Fc,Goalkeeper
+Ibrahim Adel,24,4,2001,24/04/2001,23,150000,924,Pyramids Fc,Left Winger
+El-Hani Soliman,7,8,1984,07/08/1984,40,150000,926,Smouha Sc,Goalkeeper
+Mohamed Rizk,25,1,1988,25/01/1988,36,150000,928,Smouha Sc,Central Midfield
+Arafa El Sayed,23,10,1988,23/10/1988,35,150000,930,Smouha Sc,Centre Forward
+Mahmoud Ezzat,5,5,1992,05/05/1992,32,250000,932,Smouha Sc,Centre Back
+Mahmoud El Badry,3,7,1991,03/07/1991,33,200000,934,Smouha Sc,Centre Back
+Mohamed Di,20,5,1991,20/05/1991,33,200000,936,Smouha Sc,Right Back
+Aly Ghazal,1,2,1992,01/02/1992,32,500000,938,Smouha Sc,Defensive Midfield
+Ahmed Homos,24,5,1991,24/05/1991,33,250000,940,Smouha Sc,
+Mahmoud Moaaz,22,9,1992,22/09/1992,31,150000,942,Smouha Sc,Left Back
+Abdelkabir El Ouadi,20,2,1993,20/02/1993,31,300000,944,Smouha Sc,Left Winger
+Rafik Kabou,28,10,1992,28/10/1992,31,400000,946,Smouha Sc,Right Winger
+Ragab Bil,18,10,1993,18/10/1993,30,300000,948,Smouha Sc,Centre Back
+Ahmed Gamal,3,1,1994,03/01/1994,30,200000,950,Smouha Sc,Right Back
+Youssef Diop,2,1,1995,02/01/1995,29,200000,952,Smouha Sc,Defensive Midfield
+Halimo Defensive,1,1,1995,01/01/1995,29,200000,954,Smouha Sc,Midfield
+Leila Central,24,1,1995,24/01/1995,29,150000,956,Smouha Sc,Midfield
+Derrick Nsibambi,19,6,1994,19/06/1994,30,200000,958,Smouha Sc,Left Winger
+Mostafa Fathi,12,5,1994,12/05/1994,30,400000,960,Smouha Sc,Right Winger
+Islam Gamal,10,5,1994,10/05/1994,30,200000,962,Smouha Sc,Right Winger
+Mohamed Ashraf,1,4,1997,01/04/1997,27,100000,964,Smouha Sc,Goalkeeper
+Atahir Eltahir,24,10,1996,24/10/1996,27,250000,966,Smouha Sc,Right Back
+Sherif Reda,1,1,1997,01/01/1997,27,250000,968,Smouha Sc,Left Winger
+Omar Salah,10,1,1998,10/01/1998,26,150000,970,Smouha Sc,Goalkeeper
+Mohamed Abdelmonem,1,2,1999,01/02/1999,25,100000,972,Smouha Sc,Centre Back
+Ahmed Refo,3,1,1999,03/01/1999,25,25000,974,Smouha Sc,
+Khaled Abdelfattah,22,1,1999,22/01/1999,25,100000,976,Smouha Sc,Right Back
+Caria Attacking,25,1,1999,25/01/1999,25,100000,978,Smouha Sc,Midfield
+Mira Attacking,27,2,1999,27/02/1999,25,50000,980,Smouha Sc,Midfield
+Hussein Taimour,16,1,2000,16/01/2000,24,50000,982,Smouha Sc,Goalkeeper
+Mohamed Shokry,6,7,1999,06/07/1999,25,50000,984,Smouha Sc,
+Ahmed Hamdi,23,5,1999,23/05/1999,25,50000,986,Smouha Sc,Attacking Midfield
+Fares Megahed,20,8,2001,20/08/2001,23,25000,988,Smouha Sc,Centre Back
+Ali Zaki,17,4,2003,17/04/2003,21,,990,Smouha Sc,Attacking Midfield
+Islam Gamal,1,3,1989,01/03/1989,35,200000,992,Talaea El Gaish,Centre Back
+Khaled Sotohi,1,5,1989,01/05/1989,35,150000,994,Talaea El Gaish,Centre Back
+Mohamed Sef,1,11,1988,01/11/1988,35,200000,996,Talaea El Gaish,Left Back
+Hassan Magdy,30,4,1990,30/04/1990,34,150000,998,Talaea El Gaish,Right Back
+Mohamed Bassam,25,12,1990,25/12/1990,33,500000,1000,Talaea El Gaish,
+Mostafa Gamal,25,7,1990,25/07/1990,34,200000,1002,Talaea El Gaish,Defensive Midfield
+Islam Mohareb,1,1,1992,01/01/1992,32,250000,1004,Talaea El Gaish,Right Winger
+Amr Marei,1,4,1992,01/04/1992,32,350000,1006,Talaea El Gaish,Centre Forward
+Amr Gamal,3,8,1991,03/08/1991,33,300000,1008,Talaea El Gaish,Centre Forward
+Ali Elfil,13,12,1992,13/12/1992,31,250000,1010,Talaea El Gaish,Centre Back
+Ahmed Alaa,1,1,1994,01/01/1994,30,200000,1012,Talaea El Gaish,Centre Back
+Ahmed Zola,7,6,1993,07/06/1993,31,150000,1014,Talaea El Gaish,Right Back
+Franck Engonga Obame,26,7,1993,26/07/1993,31,250000,1016,Talaea El Gaish,Defensive Midfield
+Vasilios Bouzas,30,6,1993,30/06/1993,31,250000,1018,Talaea El Gaish,Central Midfield
+Mohamed Shaaban,1,10,1994,01/10/1994,29,50000,1020,Talaea El Gaish,Goalkeeper
+Amr El Sisi,18,5,1994,18/05/1994,30,250000,1022,Talaea El Gaish,Defensive Midfield
+Ibrahim Kone,30,1,1995,30/01/1995,29,150000,1024,Talaea El Gaish,Attacking Midfield
+Ahmed Samir,25,8,1994,25/08/1994,30,300000,1026,Talaea El Gaish,Right Winger
+Ali El Zahdi,1,5,1996,01/05/1996,28,50000,1028,Talaea El Gaish,Central Midfield
+Mohamed Gamal,22,3,1997,22/03/1997,27,50000,1030,Talaea El Gaish,Left Back
+Mohad Lasheen,29,5,1996,29/05/1996,28,250000,1032,Talaea El Gaish,Central Midfield
+Mostafa Mahmoud,7,7,1997,07/07/1997,27,25000,1034,Talaea El Gaish,Goalkeeper
+Ahmed Hany,19,5,1997,19/05/1997,27,50000,1036,Talaea El Gaish,Right Back
+Sr Mansi,22,7,1997,22/07/1997,27,300000,1038,Talaea El Gaish,Centre Forward
+Toni Gomes,16,11,1998,16/11/1998,25,200000,1040,Talaea El Gaish,Left Winger
+Hossam Ghanem,29,1,1999,29/01/1999,25,25000,1042,Talaea El Gaish,Centre Forward
+Mahmoud Atef,1,1,2000,01/01/2000,24,50000,1044,Talaea El Gaish,Centre Back
+Mohamed Samir,1,1,2001,01/01/2001,23,100000,1046,Talaea El Gaish,Centre Back
+Mohamed Shehata,1,1,2001,01/01/2001,23,150000,1048,Talaea El Gaish,Central Midfield
+Mostafa Ashraf,,NA,,#VALUE!,#VALUE!,,1050,Talaea El Gaish,Defender
+Fathi Mabrouk,1,9,1987,01/09/1987,37,100000,1052,Ghazl Mahalla,Left Back
+Mahmoud Reda,2,4,1989,02/04/1989,35,50000,1054,Ghazl Mahalla,Goalkeeper
+Galal El Okdah,22,12,1988,22/12/1988,35,50000,1056,Ghazl Mahalla,Left Back
+Yehia Hamed,17,1,1991,17/01/1991,33,50000,1058,Ghazl Mahalla,Right Back
+Ahmed El Sheikh,12,6,1990,12/06/1990,34,150000,1060,Ghazl Mahalla,Left Winger
+Islam Fouad,6,1,1991,06/01/1991,33,150000,1062,Ghazl Mahalla,Centre Forward
+Mohamed Sami,1,10,1991,01/10/1991,32,,1064,Ghazl Mahalla,Centre Back
+Hany Adel,15,2,1992,15/02/1992,32,50000,1066,Ghazl Mahalla,
+Mohamed El Beshbeshi,4,1,1993,04/01/1993,31,50000,1068,Ghazl Mahalla,Goalkeeper
+Ahmed Eid,19,11,1992,19/11/1992,31,,1070,Ghazl Mahalla,Centre Back
+Amr Shaaban,10,10,1993,10/10/1993,30,,1072,Ghazl Mahalla,Goalkeeper
+Mohamed Camacho,15,6,1993,15/06/1993,31,,1074,Ghazl Mahalla,Centre Back
+Khaled Lotfi,4,5,1994,04/05/1994,30,50000,1076,Ghazl Mahalla,Central Midfield
+Khaled Kassab,8,7,1993,08/07/1993,31,50000,1078,Ghazl Mahalla,
+Ahmed Adel,1,1,1995,01/01/1995,29,50000,1080,Ghazl Mahalla,Defensive Midfield
+Ashraf El Sayed,2,3,1995,02/03/1995,29,,1082,Ghazl Mahalla,Central Midfield
+Francis Afriyie,18,1,1995,18/01/1995,29,200000,1084,Ghazl Mahalla,Centre Forward
+Bassam Maher,27,9,1995,27/09/1995,28,50000,1086,Ghazl Mahalla,Central Midfield
+Khaled El Akhmimi,2,1,1996,02/01/1996,28,50000,1088,Ghazl Mahalla,Attacking Midfield
+Khaled Raslan,23,3,1996,23/03/1996,28,,1090,Ghazl Mahalla,Left Winger
+Ahmed Hassan,9,12,1995,09/12/1995,28,100000,1092,Ghazl Mahalla,Centre Forward
+Mohamed Hamdan,1,1,1997,01/01/1997,27,,1094,Ghazl Mahalla,Attacking Midfield
+Hesham Balaha,21,6,1996,21/06/1996,28,25000,1096,Ghazl Mahalla,Right Winger
+Mahmoud Salah,15,2,1997,15/02/1997,27,,1098,Ghazl Mahalla,Centre Forward
+Mahmoud Alaa,21,2,1998,21/02/1998,26,,1100,Ghazl Mahalla,Left Back
+Moataz Kajo,1,1,1998,01/01/1998,26,,1102,Ghazl Mahalla,Right Back
+Mohamed Karem,26,1,1999,26/01/1999,25,50000,1104,Ghazl Mahalla,Right Winger
+Abdo Yehia,6,3,1999,06/03/1999,25,,1106,Ghazl Mahalla,Right Winger
+Badr Mousa,11,4,1999,11/04/1999,25,,1108,Ghazl Mahalla,Centre Forward
+Ahmed El Dry,5,6,1999,05/06/1999,25,,1110,Ghazl Mahalla,Defensive Midfield
+Hossam Hassan,1,1,2001,01/01/2001,23,25000,1112,Ghazl Mahalla,Left Winger
+Mohamed Abdelkader,,NA,,#VALUE!,#VALUE!,,1114,Ghazl Mahalla,Centre Back
+Ashour El Adham,11,6,1985,11/06/1985,39,100000,1116,Cleopatra Fc,Defensive Midfield
+Amer Amer,14,2,1987,14/02/1987,37,250000,1118,Cleopatra Fc,Goalkeeper
+Mahmoud Shokri,5,1,1989,05/01/1989,35,50000,1120,Cleopatra Fc,Goalkeeper
+Walid Abdelmonem,18,3,1989,18/03/1989,35,50000,1122,Cleopatra Fc,Centre Back
+Ahmed Mohsen,20,5,1988,20/05/1988,36,200000,1124,Cleopatra Fc,Left Back
+Mohamed Mosaad,20,2,1989,20/02/1989,35,200000,1126,Cleopatra Fc,Right Winger
+Diyaa Kandil,1,3,1990,01/03/1990,34,25000,1128,Cleopatra Fc,
+Seif Teka,20,4,1991,20/04/1991,33,300000,1130,Cleopatra Fc,Centre Back
+Ragab Bakar,15,3,1991,15/03/1991,33,300000,1132,Cleopatra Fc,Right Back
+Ahmed Ghoneim,30,5,1990,30/05/1990,34,25000,1134,Cleopatra Fc,Centre Forward
+Mohamed Ibrahim,1,3,1992,01/03/1992,32,400000,1136,Cleopatra Fc,Attacking Midfield
+Winnful Cobbi,6,9,1991,06/09/1991,33,325000,1138,Cleopatra Fc,Attacking Midfield
+Mido Gaber,22,9,1992,22/09/1992,31,300000,1140,Cleopatra Fc,Left Winger
+Shady Hussein,1,5,1993,01/05/1993,31,25000,1142,Cleopatra Fc,Left Winger
+Tarek Samy,21,8,1993,21/08/1993,31,50000,1144,Cleopatra Fc,Centre Back
+Body,6,6,1993,06/06/1993,31,150000,1146,Cleopatra Fc,Right Back
+Saleh Gomaa,1,8,1993,01/08/1993,31,250000,1148,Cleopatra Fc,Attacking Midfield
+Sherif Dabo,28,1,1994,28/01/1994,30,100000,1150,Cleopatra Fc,Right Winger
+Riga,1,2,1994,01/02/1994,30,250000,1152,Cleopatra Fc,Centre Forward
+Khaled Sobhi,4,5,1995,04/05/1995,29,150000,1154,Cleopatra Fc,Centre Back
+Mahmoud Sakr,4,8,1994,04/08/1994,30,50000,1156,Cleopatra Fc,Right Back
+Kwame Bonsu,25,9,1994,25/09/1994,29,350000,1158,Cleopatra Fc,Central Midfield
+Maxwell Baakoh,8,10,1995,08/10/1995,28,50000,1160,Cleopatra Fc,Left Winger
+Mohamed Tony,10,9,1996,10/09/1996,28,250000,1162,Cleopatra Fc,Defensive Midfield
+Fonsinho Left,17,8,1996,17/08/1996,28,25000,1164,Cleopatra Fc,Winger Right
+Abdallah Mahmoud,25,12,1997,25/12/1997,26,50000,1166,Cleopatra Fc,Centre Back
+Fabrice Ngah,16,10,1997,16/10/1997,26,550000,1168,Cleopatra Fc,Left Back
+Mahmoud Bolbol,12,1,1998,12/01/1998,26,25000,1170,Cleopatra Fc,Central Midfield
+Ahmed Yasser Rayan,24,1,1998,24/01/1998,26,600000,1172,Cleopatra Fc,Centre Forward
+Mohamed Gamal,1,1,1999,01/01/1999,25,25000,1174,Cleopatra Fc,Goalkeeper
+Khaled Gamal,20,2,2000,20/02/2000,24,25000,1176,Cleopatra Fc,Left Winger
+Mostafa Saad,22,8,2001,22/08/2001,23,,1178,Cleopatra Fc,Right Winger
+Osama Azab,27,8,1986,27/08/1986,38,150000,1180,Masr El,Right Back
+Mostafa Shebeita,10,5,1986,10/05/1986,38,150000,1182,Masr El,Defensive Midfield
+Mody,7,10,1987,07/10/1987,36,200000,1184,Masr El,Centre Back
+Essam Sobhy,6,2,1988,06/02/1988,36,150000,1186,Masr El,Right Back
+Salah Ashour,8,9,1987,08/09/1987,37,200000,1188,Masr El,Attacking Midfield
+Paulin Voavy,10,11,1987,10/11/1987,36,300000,1190,Masr El,Left Winger
+Hosny Fathi,19,3,1989,19/03/1989,35,200000,1192,Masr El,
+Hossam Hassan,30,4,1989,30/04/1989,35,-,1194,Masr El,Defensive Midfield
+Asem Said,9,9,1989,09/09/1989,35,250000,1196,Masr El,Centre Back
+Hesham Mohamed,3,1,1990,03/01/1990,34,200000,1198,Masr El,Defensive Midfield
+Mohamed Koko,11,4,1991,11/04/1991,33,100000,1200,Masr El,Goalkeeper
+Shimelis Bekele,17,10,1990,17/10/1990,33,300000,1202,Masr El,Attacking Midfield
+Basem Morsy,1,1,1992,01/01/1992,32,400000,1204,Masr El,Centre Forward
+Emad Fathi,6,1,1993,06/01/1993,31,200000,1206,Masr El,Attacking Midfield
+Mahmoud Hamdy,1,11,1993,01/11/1993,30,250000,1208,Masr El,Goalkeeper
+Khalid Aucho,8,8,1993,08/08/1993,31,250000,1210,Masr El,Defensive Midfield
+Islam Saleh,6,1,1995,06/01/1995,29,150000,1212,Masr El,Defensive Midfield
+Ali Wezza,20,4,1995,20/04/1995,29,25000,1214,Masr El,Central Midfield
+Muftah Taktak,5,5,1996,05/05/1996,28,300000,1216,Masr El,Left Winger
+Ibrahim Aboul-Yazid,24,6,1996,24/06/1996,28,200000,1218,Masr El,Centre Back
+Mahmoud El Ghazali,27,8,1996,27/08/1996,28,25000,1220,Masr El,Right Back
+Abdallah Magdy,1,1,1997,01/01/1997,27,100000,1222,Masr El,Right Winger
+Oufa,6,10,1996,06/10/1996,27,25000,1224,Masr El,Centre Forward
+Ahmed Meteb,1,10,1996,01/10/1996,27,,1226,Masr El,Centre Forward
+Mohamed Desouki,18,12,1997,18/12/1997,26,150000,1228,Masr El,Left Back
+Ahmed Adel,25,9,1997,25/09/1997,26,150000,1230,Masr El,Attacking Midfield
+Beltagy Samir,30,4,1999,30/04/1999,25,25000,1232,Masr El,Goalkeeper
+Khaled Mostafa,2,1,1999,02/01/1999,25,25000,1234,Masr El,Centre Back
+Ziad Ashraf,1,1,1999,01/01/1999,25,,1236,Masr El,Midfield
+Mohamed Adel,1,1,1999,01/01/1999,25,,1238,Masr El,Midfield
+Mohamed Makhlouf,3,6,1998,03/06/1998,26,250000,1240,Masr El,Defensive Midfield
+Ahmed Sabeha,9,9,1999,09/09/1999,25,50000,1242,Masr El,Centre Back
+Fares Tarek,14,1,2000,14/01/2000,24,,1244,Masr El,Right Back
+Ahmed Marchuh,11,11,1999,11/11/1999,24,50000,1246,Masr El,Attacking Midfield
+Mahmoud Fahmi,23,12,1999,23/12/1999,24,50000,1248,Masr El,Centre Forward
+Ahmed Eid Abdallah,,NA,,#VALUE!,#VALUE!,,1250,Masr El,Midfield
+Mosaad Awad,15,1,1993,15/01/1993,31,250000,1252,Wadi Degla Fc,Goalkeeper
+Oussa,6,2,1977,06/02/1977,47,50000,1254,Wadi Degla Fc,
+Hussein Zekry,22,8,1999,22/08/1999,25,50000,1256,Wadi Degla Fc,Goalkeeper
+Ahmed Mayhoub,3,4,1996,03/04/1996,28,25000,1258,Wadi Degla Fc,Goalkeeper
+Mahmoud Marei,24,4,1998,24/04/1998,26,250000,1260,Wadi Degla Fc,Centre Back
+Khaled Reda,19,8,1989,19/08/1989,35,200000,1262,Wadi Degla Fc,Centre Back
+Abdelrahman Rashdan,1,1,2003,01/01/2003,21,50000,1264,Wadi Degla Fc,Centre Back
+Mohamed Gamal,30,9,1992,30/09/1992,31,25000,1266,Wadi Degla Fc,Centre Back
+Ibrahim Riou,24,10,1992,24/10/1992,31,25000,1268,Wadi Degla Fc,Centre Back
+Issahaku Yakubu,17,6,1994,17/06/1994,30,300000,1270,Wadi Degla Fc,Left Back
+Der Hesham,27,4,1999,27/04/1999,25,50000,1272,Wadi Degla Fc,Left Back
+Iheb Mbarki,14,2,1992,14/02/1992,32,400000,1274,Wadi Degla Fc,Right Back
+Ahmed Magdy,23,4,1989,23/04/1989,35,150000,1276,Wadi Degla Fc,Right Back
+Bassam Walid,6,1,1998,06/01/1998,26,100000,1278,Wadi Degla Fc,Right Back
+Ahmed Said,3,1,1997,03/01/1997,27,300000,1280,Wadi Degla Fc,Defensive Midfield
+Mohamed Abdelaati,5,9,1995,05/09/1995,29,250000,1282,Wadi Degla Fc,Defensive Midfield
+Amr Saleh,16,12,1995,16/12/1995,28,200000,1284,Wadi Degla Fc,Defensive Midfield
+Ibrahim Ayesh,16,11,1998,16/11/1998,25,100000,1286,Wadi Degla Fc,Central Midfield
+Mohamed Helal,8,10,1995,08/10/1995,28,350000,1288,Wadi Degla Fc,Attacking Midfield
+Mohamed Reda,10,11,2000,10/11/2000,23,150000,1290,Wadi Degla Fc,Attacking Midfield
+Reda Abdelaal,21,12,1994,21/12/1994,29,25000,1292,Wadi Degla Fc,Attacking Midfield
+Mohamed Hamdi,4,4,2003,04/04/2003,21,25000,1294,Wadi Degla Fc,Attacking Midfield
+Saleh Sr,7,12,1999,07/12/1999,24,25000,1296,Wadi Degla Fc,Attacking Midfield
+Jorginho,21,9,1995,21/09/1995,28,1400000,1298,Wadi Degla Fc,Winger Left
+Rodney Antwi,3,11,1995,03/11/1995,28,400000,1300,Wadi Degla Fc,Left Winger
+Alexander Jakobsen,18,3,1994,18/03/1994,30,300000,1302,Wadi Degla Fc,Left Winger
+Hossam El Rayally,12,3,2001,12/03/2001,23,50000,1304,Wadi Degla Fc,Left Winger
+Ramez Medhat,10,8,1999,10/08/1999,25,50000,1306,Wadi Degla Fc,Left Winger
+Hossam Arafat,18,1,1990,18/01/1990,34,250000,1308,Wadi Degla Fc,Right Winger
+Karim El Debes,3,6,2003,03/06/2003,21,25000,1310,Wadi Degla Fc,Right Winger
+Diego Calder?N,13,12,1989,13/12/1989,34,600000,1312,Wadi Degla Fc,Centre Forward
+Salah Amin,18,9,1981,18/09/1981,42,100000,1314,Wadi Degla Fc,Centre Forward
+Ahmed Sherif,8,2,2003,08/02/2003,21,100000,1316,Wadi Degla Fc,Centre Forward
+Ahmed Atef,21,3,1998,21/03/1998,26,50000,1318,Wadi Degla Fc,Centre Forward
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
